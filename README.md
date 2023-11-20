@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on Ultra Marathon Races
+https://github.com/Ethann93/Ultra-Marathon/issues# Exploratory Data Analysis (EDA) on Ultra Marathon Races
 
 In this README, we perform EDA on a dataset of ultra marathon races using Python and libraries like pandas, numpy, seaborn, and matplotlib. 
 
@@ -16,7 +16,12 @@ In this README, we perform EDA on a dataset of ultra marathon races using Python
 
 1) Histograms of race lengths.
 
+![output](https://github.com/Ethann93/Ultra-Marathon/assets/133777296/ba92fec6-0e17-4f37-b500-40aa831d3198)
+
 2) Distribution of athlete average speed in 50-mile runs.
+
+![Distribution of Athlete Average Speed in 50 Mile Run](https://github.com/Ethann93/Ultra-Marathon/assets/133777296/2c7f8a1c-ebbd-42db-95d1-b5a23b9e2b59)
+
 
 3) Analysis of average speeds by age groups in different race lengths.
 
