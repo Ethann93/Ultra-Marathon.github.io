@@ -1,4 +1,4 @@
-https://github.com/Ethann93/Ultra-Marathon/issues# Exploratory Data Analysis (EDA) on Ultra Marathon Races
+# Exploratory Data Analysis (EDA) on Ultra Marathon Races
 
 In this README, we perform EDA on a dataset of ultra marathon races using Python and libraries like pandas, numpy, seaborn, and matplotlib. 
 
